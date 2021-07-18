@@ -1,0 +1,6 @@
+streamlit
+face_recognition
+cv2
+numpy
+from PIL import Image
+mediapipe
