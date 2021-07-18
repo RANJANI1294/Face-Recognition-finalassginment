@@ -1,0 +1,7 @@
+python 3.8
+import face_recognition
+import streamlit as st
+import cv2
+import numpy as np
+from PIL import Image
+import mediapipe as mp
