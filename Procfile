@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run assing.py
+web: streamlit run assing.py
