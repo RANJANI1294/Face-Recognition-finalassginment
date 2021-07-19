@@ -1,1 +1,1 @@
-web: streamlit run assing.py
+web:streamlit run assing.py
